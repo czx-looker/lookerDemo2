@@ -1,1 +1,2 @@
 发斯蒂芬斯蒂芬
+命令创建ssh-key:ssh-keygen -t rsa -C "注册GitHub的邮箱地址"
